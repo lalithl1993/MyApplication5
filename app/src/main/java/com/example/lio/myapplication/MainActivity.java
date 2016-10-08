@@ -13,7 +13,7 @@ package com.example.lio.myapplication;
 //}
 //package com.example.chethanv.databasedemo;
 
-        import android.database.Cursor;
+import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
